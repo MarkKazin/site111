@@ -1,0 +1,36 @@
+<html>
+    <title>Компютеры</title>
+        <body style="background-color:#B0E0E6; font-family:sans-serif">
+            <h1 style="font-size:30px; background-color:#B0C4DE;text-align:center">Компютеры. Информация</h1>
+            <p style="background-color:#ADD8E6; font-family:Times-serif; font-size:15px">Я раскажу какие есть сoчитания клавиш Windows 11.</p>
+            <table style="border:1px; color:#000080">
+                <tr>
+                    <td style="border:1px solid green">Сoчитания </td>
+                    <td style="border:1px solid green">Действия</td>
+                </tr>
+                <tr>
+                    <td style="border:1px solid green">CTRL+X</td>
+                    <td style="border:1px solid green">Вырезание выбранного элемента.</td>
+                </tr>
+                <tr>
+                    <td style="border:1px solid green">CTRL+C (или CTRL+INSERT)</td>
+                    <td style="border:1px solid green">Копирование выбранного элемента.</td>
+                </tr>
+                <tr>
+                    <td style="border:1px solid green">CTRL+V (или SHIFT+INSERT)</td>
+                    <td style="border:1px solid green">Копирование выбранного элемента.</td>
+                </tr>
+                <tr>
+                    <td style="border:1px solid green">CTRL+Z</td>
+                    <td style="border:1px solid green">Отмена действия.</td>
+                </tr>
+                <tr>
+                    <td style="border:1px solid green">ALT+TAB</td>
+                    <td style="border:1px solid green">Переключение между открытыми приложениями.</td>
+                </tr>
+            </table>
+            <a href="https://support.microsoft.com/ru-ru/windows/%D1%81%D0%BE%D1%87%D0%B5%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D1%88-%D0%B2-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec">
+            <p style="text-align:center">Все сoчитания клавиш</p>
+            </a>
+        </body>
+</html>
